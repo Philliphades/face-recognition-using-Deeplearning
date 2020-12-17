@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c5f457f-837a-485d-884f-49abeb17d34a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_12.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_28.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_35.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Akshay Kumar/ActiOn_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Nguyen Hau/42498681_2146679312257883_3712682885870780416_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Nguyen Hau/45355300_2276401159259338_5943535770391281664_o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Nguyen Hau/49442054_2318399381726182_5413996809947185152_o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Nguyen Hau/55528676_2368222260077227_4405951364052549632_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Nguyen Hau/57303268_2379842305581889_5612702539888721920_o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Nguyen Hau/62449101_2422532847979501_7248173193683271680_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Nguyen Hau/62490175_2422532897979496_8697236395611127808_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Nguyen Hau/65215015_2430952950470824_3729696544115392512_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Nguyen Hau/72046002_2514373092128809_3676197898900471808_o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Xuan Phuoc/img_face_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Xuan Phuoc/img_face_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Xuan Phuoc/img_face_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Xuan Phuoc/img_face_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Xuan Phuoc/img_face_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Xuan Phuoc/img_face_14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Xuan Phuoc/img_face_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Xuan Phuoc/img_face_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Xuan Phuoc/img_face_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Xuan Phuoc/img_face_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Xuan Phuoc/img_face_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Xuan Phuoc/img_face_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Xuan Phuoc/img_face_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/Xuan Phuoc/img_face_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/chi_pu/00000002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/chi_pu/00000003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/chi_pu/00000005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/chi_pu/00000006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/chi_pu/00000008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/chi_pu/00000009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/chi_pu/00000010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/chi_pu/00000011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/chi_pu/00000014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/chi_pu/00000015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/chi_pu/00000016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/chi_pu/00000017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/chi_pu/00000018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/chi_pu/00000019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/chi_pu/00000020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/chi_pu/00000021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/chi_pu/00000022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/chi_pu/00000023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/chi_pu/00000024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/chi_pu/00000025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/chi_pu/00000026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/chi_pu/00000027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/chi_pu/00000028.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/chi_pu/00000029.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000049.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000065.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000077.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000090.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000097.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000101.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000106.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000118.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000160.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000166.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000167.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000184.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000201.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000215.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000219.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000272.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000352.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000358.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000371.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000408.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000409.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000435.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/justin_bieber/00000465.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/ngo_kien_huy/00000001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/ngo_kien_huy/00000002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/ngo_kien_huy/00000003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/ngo_kien_huy/00000004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/ngo_kien_huy/00000005.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/ngo_kien_huy/00000006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/ngo_kien_huy/00000007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/ngo_kien_huy/00000008.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/ngo_kien_huy/00000011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/ngo_kien_huy/00000012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/ngo_kien_huy/00000013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/ngo_kien_huy/00000014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/ngo_kien_huy/00000015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/ngo_kien_huy/00000017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/ngo_kien_huy/00000019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/ngo_kien_huy/00000023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/ngo_kien_huy/00000025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/ngo_kien_huy/00000026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/ngo_kien_huy/00000029.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/ngo_kien_huy/00000030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/ngo_kien_huy/00000032.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/ngo_kien_huy/00000034.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/ngo_kien_huy/00000036.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/ngo_kien_huy/00000037.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/son_tung/00000000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/son_tung/00000003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/son_tung/00000005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/son_tung/00000006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/son_tung/00000007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/son_tung/00000008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/son_tung/00000011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/son_tung/00000012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/son_tung/00000014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/son_tung/00000016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/son_tung/00000019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/son_tung/00000024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/son_tung/00000025.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/son_tung/00000026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/son_tung/00000027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/son_tung/00000032.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/son_tung/00000035.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/son_tung/00000036.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/son_tung/00000038.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/son_tung/00000039.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/son_tung/00000040.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/son_tung/00000041.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/son_tung/00000043.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/son_tung/00000044.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/truong_giang/00000000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/truong_giang/00000002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/truong_giang/00000003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/truong_giang/00000004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/truong_giang/00000005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/truong_giang/00000010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/truong_giang/00000011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/truong_giang/00000012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/truong_giang/00000014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/truong_giang/00000015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/truong_giang/00000020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/truong_giang/00000024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/truong_giang/00000027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/truong_giang/00000028.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/truong_giang/00000029.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/truong_giang/00000036.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/truong_giang/00000039.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/truong_giang/00000046.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/truong_giang/00000047.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/truong_giang/00000072.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/truong_giang/00000073.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/Dataset/FaceData/raw/truong_giang/00000075.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/src/img_dec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/video/test.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/video/test1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/video/trucnhan.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiAI_FaceRecog_2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiAI_FaceRecog_2/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiAI_FaceRecog_2/src/align/detect_face.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/src/align/detect_face.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiAI_FaceRecog_2/src/align_dataset_mtcnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/src/align_dataset_mtcnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiAI_FaceRecog_2/src/face_rec.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/src/face_rec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiAI_FaceRecog_2/src/face_rec_cam.py" beforeDir="false" afterPath="$PROJECT_DIR$/MiAI_FaceRecog_2/src/face_rec_cam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiAI_FaceRecog_2/video/camtest.mp4" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MiAI_FaceRecog_2" />
+  </component>
+  <component name="ProjectId" id="1U3ZzOzRewoHdPRwC6ddI2RsI6I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vinh-pc\PycharmProjects\BTL\MiAI_FaceRecog_2\video" />
+      <recent name="C:\Users\vinh-pc\PycharmProjects\BTL\MiAI_FaceRecog_2\Dataset\FaceData\raw" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vinh-pc\PycharmProjects\BTL\MiAI_FaceRecog_2\Dataset\FaceData\raw" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.img_dec">
+    <configuration name="align_dataset_mtcnn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BTL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MiAI_FaceRecog_2/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MiAI_FaceRecog_2/src/align_dataset_mtcnn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detect_face" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BTL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MiAI_FaceRecog_2/src/align" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MiAI_FaceRecog_2/src/align/detect_face.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="img_dec" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BTL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MiAI_FaceRecog_2/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MiAI_FaceRecog_2/src/img_dec.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.img_dec" />
+        <item itemvalue="Python.align_dataset_mtcnn" />
+        <item itemvalue="Python.detect_face" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c5f457f-837a-485d-884f-49abeb17d34a" name="Default Changelist" comment="" />
+      <created>1574587500241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574587500241</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>
